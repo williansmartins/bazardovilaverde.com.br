@@ -1,6 +1,12 @@
 .wrapper {
   margin: 0 auto;
 }
+.wrapper .wrapper-center {
+  text-align: center;
+}
+.wrapper video {
+  margin: 0 auto;
+}
 .wrapper #logo {
   width: 400px;
 }
